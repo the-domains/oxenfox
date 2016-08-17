@@ -1,0 +1,28 @@
+name: oxenfox
+favicon: null
+layout_spectrum: 0.11514299968257546
+typography_spectrum: 0.17838055198080838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13734197686426342
+  lightness: 0.09278079634532332
+  saturation: 0.7428663522005081
+  rhythmicContrast: 0.7712500628549606
+purpose: []
